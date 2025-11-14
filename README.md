@@ -1,5 +1,5 @@
 # Global Solution 2025 — Plataforma de Monitoramento de Bem-Estar e Saúde Mental (API)
-## integrantes
+## Integrantes
 - Eduardo Lima RM554804
 - Matheus Hostim RM556517
 - Guilherme Ulacco RM558418
