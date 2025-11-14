@@ -1,0 +1,26 @@
+# Maven / Java
+target/
+*.class
+*.log
+*.tmp
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+/.settings/
+*.classpath
+*.project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven wrapper
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# H2 files (no commit of DB files)
+*.db
