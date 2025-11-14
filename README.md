@@ -1,8 +1,8 @@
 # Global Solution 2025 — Plataforma de Monitoramento de Bem-Estar e Saúde Mental (API)
 ## integrantes
-Eduardo Lima RM554804
-Matheus Hostim RM556517
-Guilherme Ulacco RM558418
+- Eduardo Lima RM554804
+- Matheus Hostim RM556517
+- Guilherme Ulacco RM558418
 ## Descrição
 API RESTful em Java + Spring Boot para monitoramento de bem-estar e saúde mental. Suporta cadastro de pacientes e registros diários (humor, ansiedade, sono). Projeto alinha-se ao tema "Futuro do Trabalho" e contribui para ODS relacionados à saúde e trabalho decente.
 
