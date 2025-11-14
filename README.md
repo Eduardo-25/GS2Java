@@ -3,6 +3,9 @@
 - Eduardo Lima RM554804
 - Matheus Hostim RM556517
 - Guilherme Ulacco RM558418
+
+## Link Github
+- https://github.com/Eduardo-25/GS2Java
 ## Descrição
 API RESTful em Java + Spring Boot para monitoramento de bem-estar e saúde mental. Suporta cadastro de pacientes e registros diários (humor, ansiedade, sono). Projeto alinha-se ao tema "Futuro do Trabalho" e contribui para ODS relacionados à saúde e trabalho decente.
 
